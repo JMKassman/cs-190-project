@@ -10,3 +10,6 @@
 .externalNativeBuild
 *.apk
 /out
+app/.idea/
+server/.idea/
+
