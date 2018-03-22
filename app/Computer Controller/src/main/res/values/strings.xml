@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Computer Controller</string>
+    <string name="type_to_send_text">Type to send text...</string>
 </resources>
