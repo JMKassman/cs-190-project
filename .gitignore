@@ -13,3 +13,5 @@
 app/.idea/
 server/.idea/
 
+
+*.class
